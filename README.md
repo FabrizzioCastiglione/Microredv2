@@ -13,5 +13,5 @@ password: z79j@arfKb
 
 Database Postgres
 User: microred
-database: dbmicrored
+database: dbmicroreducsc
 password: M*MDx8IjHe
